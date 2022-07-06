@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haktan Ersoy</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [theVinci](https://app.thevinci.io/)
+- 🔭 I’m currently working on [hepsiemlak](https://hepsiemlak.com/)
 
 - 📫 How to reach me **haktan.ersoy.software@gmail.com**
 
