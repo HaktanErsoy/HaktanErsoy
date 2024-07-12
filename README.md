@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haktan Ersoy</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [hepsiemlak](https://hepsiemlak.com/)
+- 🔭 I’m currently working on [INSCALE](https://www.inscale.net/)
 
 - 📫 How to reach me **haktan.ersoy.software@gmail.com**
 
